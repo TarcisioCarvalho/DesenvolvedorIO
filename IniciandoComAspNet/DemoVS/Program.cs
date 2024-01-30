@@ -1,9 +1,10 @@
 using PorBaixoDosPanos;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.AddSerilog();
 var app = builder.Build();
 
-app.UseMiddleware<LogTempoMiddleware>();
+app.UseLogTempo();
 
 
 app.MapGet("/", () => "Hello World!");

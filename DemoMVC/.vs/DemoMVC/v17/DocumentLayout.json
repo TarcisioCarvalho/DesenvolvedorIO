@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tarc\u00EDsio\\Documents\\Programa\u00E7\u00E3o\\DesenvolvedorIO\\DemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A55D1C2-48A9-45EF-BDFD-E3250FB42590}|DemoMVC.csproj|c:\\users\\tarc\u00EDsio\\documents\\programa\u00E7\u00E3o\\desenvolvedorio\\demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A55D1C2-48A9-45EF-BDFD-E3250FB42590}|DemoMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A55D1C2-48A9-45EF-BDFD-E3250FB42590}|DemoMVC.csproj|c:\\users\\tarc\u00EDsio\\documents\\programa\u00E7\u00E3o\\desenvolvedorio\\demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A55D1C2-48A9-45EF-BDFD-E3250FB42590}|DemoMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tarc\u00EDsio\\Documents\\Programa\u00E7\u00E3o\\DesenvolvedorIO\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tarc\u00EDsio\\Documents\\Programa\u00E7\u00E3o\\DesenvolvedorIO\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T23:38:41.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tarc\u00EDsio\\Documents\\Programa\u00E7\u00E3o\\DesenvolvedorIO\\DemoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tarc\u00EDsio\\Documents\\Programa\u00E7\u00E3o\\DesenvolvedorIO\\DemoMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T23:32:18.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
